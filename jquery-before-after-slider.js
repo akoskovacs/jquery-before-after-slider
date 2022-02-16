@@ -24,7 +24,7 @@
             "height": c.height,
             "position": "absolute",
             "background-repeat": "no-repeat",
-            "border-right": "1px solid gray"
+            "border-right": "5px solid white"
         });
 
         var offset = $(i2).offset();
